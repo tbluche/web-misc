@@ -226,6 +226,11 @@ https://bitbucket.org/ianb/paste/
 
 * [RabbitMQ](https://www.rabbitmq.com/)
 
+
+### Tornado and Sockets
+
+* [Realtime web application with Tornado and WebSocket ](http://en.proft.me/2014/05/16/realtime-web-application-tornado-and-websocket/)
+
 ## async
 
 * explanation - http://mathieu.agopian.info/blog/python-et-asyncio-la-recette-du-bonheur.html
