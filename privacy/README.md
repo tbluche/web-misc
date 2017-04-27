@@ -33,6 +33,7 @@
 ## Password managers
 
 * [KeePass](http://keepass.info/download.html)
+  * [Install KeePass on Linux](keepass.md)
 
 ## Storage
 
