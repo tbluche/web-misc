@@ -36,7 +36,16 @@
 
 ## Storage
 
+### Physical
+
 * [iStorage](https://istorage-uk.com/)
+
+### Cloud
+
+* [NextCloud](https://nextcloud.com)
+  * [Zaclys](https://cloud.zaclys.com/)
+  * [Kinamo](https://www.kinamo.be/en/cloud/storage#)
+
 
 ## Poll
 
