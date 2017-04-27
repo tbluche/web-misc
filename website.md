@@ -149,8 +149,8 @@ $(document).ready(function() {$("#content").load(getParameterByName('p', 'home')
 
 
 ````
-/home/bluche/src/mongodb-linux-x86_64-2.6.10/bin/mongodump --host asterion:28283 
-/home/bluche/src/mongodb-linux-x86_64-2.6.10/bin/mongorestore --host asterion:28283 dump/
+/home/bluche/src/mongodb-linux-x86_64-2.6.10/bin/mongodump --host host:28283 
+/home/bluche/src/mongodb-linux-x86_64-2.6.10/bin/mongorestore --host host:28283 dump/
 ````
 
 * http://edgytech.com/umongo/ - GUI interface
