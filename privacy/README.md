@@ -3,6 +3,7 @@
 ## Advice
 
 * [Privacy Tools](https://privacytoolsio.github.io/privacytools.io)
+  * [Make firefox more private](https://privacytoolsio.github.io/privacytools.io/#about_config)
 * [ANSSI](http://www.ssi.gouv.fr/)
 * [The Crypto Paper](https://cryptoseb.pw/paper)
 * [Surveillance Self-Defense](https://ssd.eff.org/)
@@ -20,6 +21,13 @@
 ## Email
 
 * [ProtonMail](https://protonmail.com/)
+* [Mailfence](https://mailfence.com/)
+
+
+## Note taking
+
+* [Laverna](https://laverna.cc/#download)
+* [Turtl](https://turtlapp.com/) - alternative to Google Keep
 
 
 ## Password managers
@@ -29,3 +37,11 @@
 ## Storage
 
 * [iStorage](https://istorage-uk.com/)
+
+## Poll
+
+* [Dudle](https://dudle.inf.tu-dresden.de/) - alternative to doodle
+
+## Social network
+
+* [diaspora](https://diasporafoundation.org/) - supports cross-posting to fb, twitter, ... 
